@@ -3,7 +3,8 @@ from plotly import offline
 from die import Die
 
 # Create a D6
-die = Die()
+die_1 = Die()
+die_2 = Die()
 
 # Make some rolls and store the rsukts in a list
 results = []
